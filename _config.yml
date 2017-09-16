@@ -1,4 +1,4 @@
-title: My personal blog - Adam Neilson
+title: My personal blog - Tyler Estes
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -10,8 +10,8 @@ url: "tylerestes.io" # the base hostname & protocol for your site, e.g. http://e
 
 # Author settings
 author: Tyler Estes # add your name
-author-pic: adam-face.jpg
-about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
+author-pic: CrederaWoodwall.png
+about-author: My name is Tyler Estes. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
 
 # Contact links
 email: # Add your Email address
