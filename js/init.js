@@ -82,7 +82,7 @@
 							href = $this.attr('href');
 
 						// Not an internal link? Bail.
-							if (href.charAt(0) != '#')
+							if (href.charAt(0) = '/')
 								return;
 
 						// Prevent default behavior.

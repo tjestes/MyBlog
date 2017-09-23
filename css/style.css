@@ -1026,7 +1026,8 @@
 
 					#header > nav ul li a.active, #header > nav ul li .cc-active {
 						background: #fff;
-						color: #4acaa8 !important;
+						font-weight: bold;
+						color: #110369 !important;
 					}
 
 				#header > nav ul li:first-child {
