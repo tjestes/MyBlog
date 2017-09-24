@@ -35,7 +35,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #4acaa8 !important;
+			color: #226185 !important;
 		}
 
 	strong, b {
@@ -195,7 +195,8 @@
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		/* color: #4acaa8; */
+		color: #226185;
 		font-size: 3.5em;
 	}
 
@@ -259,7 +260,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4acaa8;
+			border-color: #226185;
 		}
 
 	.select-wrapper {
@@ -370,7 +371,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #4acaa8;
+			border-color: #226185;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -562,7 +563,7 @@
 				}
 
 				ul.feature-icons li:before {
-					background: #4acaa8;
+					background: #226185;
 					border-radius: 100%;
 					color: #ffffff;
 					display: block;
@@ -851,7 +852,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #4acaa8;
+			background-color: #226185;
 			color: #ffffff !important;
 		}
 
@@ -859,14 +860,14 @@
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #5ed0b1;
+				background-color: #226185;
 			}
 
 			input[type="submit"].special:active,
 			input[type="reset"].special:active,
 			input[type="button"].special:active,
 			.button.special:active {
-				background-color: #39c29d;
+				background-color: #226185;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -932,7 +933,7 @@
 /* Header */
 
 	#header {
-		background: #110369;
+		background: #226185;
 		color: #d1f1e9;
 		height: 100%;
 		position: fixed;
@@ -1006,7 +1007,7 @@
 		}
 
 			#header > nav ul li {
-				border-top: solid 2px #110369;
+				border-top: solid 2px #226185;
 				display: block;
 				padding: 0;
 			}
@@ -1027,7 +1028,7 @@
 					#header > nav ul li a.active, #header > nav ul li .cc-active {
 						background: #fff;
 						font-weight: bold;
-						color: #110369 !important;
+						color: #226185 !important;
 					}
 
 				#header > nav ul li:first-child {
@@ -1055,7 +1056,7 @@
 			border-top: 0;
 		}
 
-/* One */
+/* About */
 
 	#about:before {
 		background-image: url("../images/banner.jpg");
